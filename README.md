@@ -2,7 +2,7 @@
 
 A collection of snippets for TextExpander to autocorrect commonly misspelt or incorrect use of letter case in Apple product names.
 
-## Capitalisation Correction
+## Letter Case Correction
 
 These snippets automatically fix the letter case for most Apple products, wherever possible. For example, no matter if you type *iphone 5*, *iPhone 5S* or *Iphone 5s*, TextExpander would correct it to *iPhone 5s* - Apple’s preferred styling.
 
